@@ -1,0 +1,5 @@
+{
+  "name": "DailyStory.co",
+  "description": "A smart, interactive note-taking and board application with markdown support, list management, and advanced scheduling with Excel export.",
+  "requestFramePermissions": []
+}
